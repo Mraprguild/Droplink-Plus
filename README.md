@@ -1,4 +1,12 @@
 # Droplink Plus
+Plugin Name: Droplink Plus
+ Plugin URI: https://www.mraprguild.shop/
+ Description: Convert Your Download Links into Revenue with Adlinkfly Integration
+ Version: 1.4
+ Author: Mraprguild
+ Author URI: https://t.me/aprfilestorebot
+ License: GPL3
+*/
 
 **Droplink Plus v1.4** – The Ultimate AdLinkFly Integration Plugin for WordPress
 
