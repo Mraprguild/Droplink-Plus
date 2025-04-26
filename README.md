@@ -55,7 +55,7 @@ Droplink Plus is a powerful WordPress plugin designed to seamlessly integrate wi
 
 ## Support
 
-For support, updates, and feature requests, please join our Telegram group via the [RTG Network]([https://t.me/mraprguildsupport).
+For support, updates, and feature requests, please join our Telegram group via the [RTG Network]https://t.me/mraprguildsupport
 
 ---
 
