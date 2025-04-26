@@ -4,7 +4,7 @@ Plugin Name: Droplink Plus
  Description: Convert Your Download Links into Revenue with Adlinkfly Integration
  Version: 1.4
  Author: Mraprguild
- Author URI: https://t.me/mraprguildsupport
+ Author URI: https://t.me/mraprguildsupport/
  License: GPL3
 */
 
